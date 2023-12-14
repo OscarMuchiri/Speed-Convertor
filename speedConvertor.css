@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1{
+    padding-bottom: 30px;
+
+}
+
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    padding-top: 0px;
+    color: maroon;
+    font-style: italic;
+    font-size: smaller;
+}
+#kph{
+    margin-left: 40px;
+}
+#but{
+    margin-top: 50px;
+}
